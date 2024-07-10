@@ -4,14 +4,23 @@ GOAL: Create a Pokemon web app using data from PokéAPI (https://pokeapi.co/) wi
 
 ## V1
 
-### Pokemon List: This component will display a grid or list of Pokemon.
+### Pokemon List
 
-Each Pokemon entry should include:
+This component will display a grid or list of Pokemon. Each Pokemon entry should include:
 
 - Pokemon name
 - Pokemon image (use the sprites.front_default property from the API response)
 - Use a library like react-paginate to handle pagination logic.
 - Display page numbers or navigation buttons to allow users to switch between pages.
+
+### V1 Progress:
+
+- done data fetching and render 20 first pokemons with name and image
+- to do:
+  - pagination, fetch and render next pokemon
+  - styling, try to do manual css styling, grid style
+
+---
 
 ## V2
 
