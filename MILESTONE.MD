@@ -20,9 +20,13 @@ This component will display a grid or list of Pokemon. Each Pokemon entry should
   - pagination, fetch and render next pokemon
   - styling, try to do manual css styling, grid style
 
----
-
 ## V2
+
+### Deployment:
+
+Host your application on a platform like Netlify, Vercel, Firebase, or Render.io for public access.
+
+## V3
 
 ### Pokemon Detail Page:
 
@@ -34,23 +38,17 @@ Clicking on a Pokemon from the list should navigate to a dedicated detail page f
 - Types: Show the Pokemon's primary and secondary types using type colors or icons.
 - Additional details (optional): You can include information like height, weight, abilities, or moves (using separate API calls).
 
-## V3
+## V4
 
 ### Search
 
 Implement a search bar to allow users to quickly find specific Pokemon.
 
-## V4
+## V5
 
 ### Filtering
 
 Allow filtering by type, generation, or other criteria.
-
-## V5
-
-### Deployment:
-
-Host your application on a platform like Netlify, Vercel, Firebase, or Render.io for public access.
 
 ## V6
 
